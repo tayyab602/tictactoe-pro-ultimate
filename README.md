@@ -55,8 +55,9 @@ A premium, cross-platform Tic Tac Toe application built with Flutter. This proje
 - **Flutter** - UI Framework
 - **Dart** - Programming Language
 
-## 📸 Screenshots
-*(Add your screenshots here after hosting them or uploading to the repo)*
+## 🎥 Demo Video
+
+[Watch the Demo](./Recording 2026-03-04 233643.mp4)
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
