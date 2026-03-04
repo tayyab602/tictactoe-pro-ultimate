@@ -57,7 +57,7 @@ A premium, cross-platform Tic Tac Toe application built with Flutter. This proje
 
 ## 🎥 Demo Video
 
-[Watch the Demo](./tictactoeRecording.mp4)
+[[Watch the Demo](./tictactoeRecording.mp4)](https://github.com/tayyab602/tictactoe-pro-ultimate/blob/main/tictactoeRecording.mp4)
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
